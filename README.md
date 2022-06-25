@@ -12,11 +12,11 @@ Con los archivos .json creados, procedemos a cargarlos y poblar nuestra DB.
 Ejecutamos:
 
 
-  `- python manage.py loaddata ingredientes_data.json`
- ` - python manage.py loaddata platos_data.json`
- ` - python manage.py loaddata menu_data.json`
- ` - python manage.py loaddata menusemana_data.json`
- ` - python manage.py loaddata ingredientesPlato_data.json`
+ -` python manage.py loaddata ingredientes_data.json`
+ -` python manage.py loaddata platos_data.json`
+ -` python manage.py loaddata menu_data.json`
+ -` python manage.py loaddata menusemana_data.json`
+ -` python manage.py loaddata ingredientesPlato_data.json`
 
 
 Una vez cargados todos los archivos procedemos ejecutar nuestro proyecto.
